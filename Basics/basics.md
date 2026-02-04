@@ -52,8 +52,12 @@ A type of database system that stores data in structed tables (using rows and co
 
 ### SQL
 
-- Structured Query Language, Which is used to talk to our database.
-- Example :- `SELECT * FROM users;`
+- SQL stands for Structured Query Language.
+- It is a standard language used to interact with relational databases.
+- It is used to create, read, update, and delete data.
+- SQL is not a database, it is only a language.
+
+Example :- `SELECT * FROM users;`
 
 ### PostgreSQL
 
