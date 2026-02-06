@@ -1,4 +1,4 @@
-# Postgres Notes
+# PostgreSQL Notes
 
 This repository contains my personal learning notes and experiments while studying **PostgreSQL**.
 
