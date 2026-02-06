@@ -32,5 +32,5 @@ Each topic usually has both:
 
 This repo is meant to be:
 - A daily learning log
-- A personal reference for future projects
+- A personal reference for future projects and future remembering
 - A practical study resource for backend development
